@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-    int A[100][100], B[100][100], C[100][100];
+    int A[100][100], B[200][100], C[100][100];
     int i, j, rA, cA, rB, cB;
 
     printf("Number of rows and columns in A:\n");
